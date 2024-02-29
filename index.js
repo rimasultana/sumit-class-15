@@ -1,3 +1,9 @@
-let x = "John";        // x is a string
-let y = new String("John");  // y is an object
-document.getElementById("demo").innerHTML = (x==y);
+const a = { 
+name: "Bangladesh",
+districk: 64,
+
+};
+const s = "Bangladesh";
+
+
+console.log(s.length);
